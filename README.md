@@ -1,1 +1,2 @@
 # countToN
+This Java program allows a user to input a number `n` and then counts from `1` to `n`, printing each number on the same line. The `Scanner` class is used to take user input from the console. The counting logic is implemented in the `num` method of the `CountToN` class using a `for` loop. After printing the numbers, the program displays a polite "Thank you :)" message to conclude. It demonstrates basic concepts of classes, methods, loops, and input/output operations in Java.
