@@ -1,0 +1,13 @@
+-> The main method is the entry point of the program.
+
+-> A Scanner object (sc) is created to read user input.
+
+-> The program prompts the user with "Count up to:" and reads an integer input (number) using sc.nextInt().
+
+-> The Scanner object is closed with sc.close() to prevent resource leaks.
+
+-> An object of the CountToN class (counter) is created.
+
+-> The method num(number) is called on this object, passing the user's input (number).
+
+-> After counting, the program prints "Thank you :)"
